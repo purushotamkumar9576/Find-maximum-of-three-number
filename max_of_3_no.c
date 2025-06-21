@@ -11,9 +11,9 @@ int main(){
   }
 }else{
     if(b>c){
-     printf("%d",b);
+     printf("the largest number is:%d",b);
     }else{
-      printf("%d",c);
+      printf("the largest number is:%d",c);
     }
   }
     return 0;
